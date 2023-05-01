@@ -271,7 +271,7 @@ public class Assignment1 {
 			}
 		}
 		else {
-			System.out.println("Guess I'll go take a break if there's noone waiting.");
+			System.out.println("Guess I'll go take a break if there's no one waiting.");
 		}
 	}
 	
